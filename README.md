@@ -3,8 +3,6 @@
 Prototype de machine learning développé en préparation du projet de recherche de
 Master **"Intelligent Decision Support for Togolese Smallholder Farmers: A Machine
 Learning Approach to Agricultural Decision Support in Low-Resource Contexts"**,
-soumis au **Programa de Pós-Graduação em Ciência da Computação (PPGCC)**,
-Universidade Federal de Goiás (UFG), Brésil.
 
 **Auteur :** Komi Isaac Junior Hounbo
 
