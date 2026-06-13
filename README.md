@@ -2,9 +2,7 @@
 
 Machine learning prototype developed in preparation for the Master's research project
 **"Intelligent Decision Support for Togolese Smallholder Farmers: A Machine Learning
-Approach to Agricultural Decision Support in Low-Resource Contexts"**, submitted to
-the **Graduate Program in Computer Science (PPGCC)**, Universidade Federal de Goiás
-(UFG), Brazil.
+Approach to Agricultural Decision Support in Low-Resource Contexts"**
 
 **Author:** Komi Isaac Junior Hounbo
 
@@ -15,7 +13,7 @@ Build a complete machine learning pipeline to recommend the most suitable crop
 properties (pH, nitrogen, phosphorus, clay content), climate variables (cumulative
 rainfall, average temperature), and water stress index.
 
-This use case corresponds to **Use Case 1** (Phase 2 — Modeling) of the research
+This use case corresponds to **Use Case 1** (Phase 2 - Modeling) of the research
 project: crop variety recommendation via Random Forest / XGBoost on tabular data
 combining soil profiles, rainfall forecasts, and historical yield data.
 
@@ -78,4 +76,4 @@ project.
 
 ## License
 
-Academic project — free use for research and educational purposes.
+Academic project - free use for research and educational purposes.
